@@ -1,2 +1,5 @@
-# DGCPN_dataset_preprocess
-DGCPN的数据集预处理
+# DGCPN 网络数据集预处理
+## 数据集
+- Wikipedia
+- MIRFlickr-25K
+- NUS-WIDE top-10 concepts

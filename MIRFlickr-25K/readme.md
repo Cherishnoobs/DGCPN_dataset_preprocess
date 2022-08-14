@@ -1,6 +1,5 @@
 ## 原始数据集
-- [MIRFlickr](https://press.liacs.nl/mirflickr/mirdownload.html)
-  - 需要下载 mirflickr25k.zip 和 mirflickr25k_annotations_v080.zip
+- [MIRFlickr](https://press.liacs.nl/mirflickr/mirdownload.html) 需要下载 mirflickr25k.zip 和 mirflickr25k_annotations_v080.zip
 
 Flickr-25K 有 2,5000 张图，每张图有对应的 tags 和 annotation。
 

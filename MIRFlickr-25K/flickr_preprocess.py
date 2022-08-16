@@ -8,7 +8,7 @@ from skimage.transform import resize
 from keras.applications.vgg19 import VGG19
 from keras.models import Model
 # 文件路径
-path = '/Users/cherish/Documents/Pycharm/dataset/mirflickr'
+path = '' 
 BASE_path = join(path,"mirflickr")
 IMG_P = BASE_path
 TXT_P = join(BASE_path, 'meta/tags')

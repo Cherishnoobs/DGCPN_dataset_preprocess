@@ -12,7 +12,7 @@
 用原数据进行清洗，最后剩余 19,0421 个数据。与 DGCPN 文中所述的 186577 条数据量不符。
 ### 解决方案
 直接使用 DCMH 中所提供的数据集：
-     NUS-WIDE (top-10 concept):
-            link: https://pan.baidu.com/s/1GFljcAtWDQFDVhgx6Jv_nQ
-            password: ml4y
+- NUS-WIDE (top-10 concept):
+  - link: https://pan.baidu.com/s/1GFljcAtWDQFDVhgx6Jv_nQ
+  - password: ml4y
 读取并使用VGG19提取image特征
